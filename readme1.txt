@@ -1,4 +1,4 @@
 Master: readMe abc
 new line b02i
 line 2
-b05
+b05gi
