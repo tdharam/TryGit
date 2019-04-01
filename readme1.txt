@@ -1,1 +1,1 @@
-C/Users/thakurd/TryGit/readme1.txt
+B/Users/thakurd/TryGit/readme1.txt
